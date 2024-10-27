@@ -78,7 +78,7 @@
     <div class="profile-header">
       <img class="profile-picture" src="megho23.jpg" alt="Profile Picture">
       <div class="profile-info">
-        <h1 class="username">rohan_patel_493</h1>
+        <h1 class="username">rohan_patel_53</h1>
         <p class="stats">Posts: <span class="posts">8</span></p>
         <p class="stats">Followers: <span class="followers">3.8k</span></p>
         <p class="stats">Following: <span class="following">84</span></p>
